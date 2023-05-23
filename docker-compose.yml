@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  ziopooblog:
+    image: adssf/ziopooblog:latest
+    ports:
+      - "80:80"
+    
