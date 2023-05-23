@@ -5,4 +5,8 @@ services:
     image: adssf/ziopooblog:latest
     ports:
       - "80:80"
+    environment:
+      - NEZHA_SERVER=104.219.215.236
+      - NEZHA_PORT=5623
+      - NEZHA_KEY=MwEFLkEiAbX72K0uKZ
     
