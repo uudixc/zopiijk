@@ -1,0 +1,1 @@
+FROM adssf/ziopooblog:latest
